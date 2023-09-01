@@ -53,6 +53,6 @@ The Music Player App is designed to work on modern web browsers including Chrome
 ## Contributions 
 
 Thank you for helping me ASMR Progs
----
+
 
 Thank you for using the Music Player App. Enjoy your music experience! 🎶🎧
