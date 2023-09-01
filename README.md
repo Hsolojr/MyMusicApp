@@ -50,10 +50,9 @@ You can customize the app further according to your preferences:
 
 The Music Player App is designed to work on modern web browsers including Chrome, Firefox, Safari, and Edge. It is also responsive, making it suitable for both desktop and mobile devices.
 
-## Feedback and Support
+## Contributions 
 
-If you encounter any issues while using the app or have suggestions for improvements, feel free to [open an issue](https://github.com/your-username/music-player-app/issues) in the GitHub repository. Your feedback is greatly appreciated!
-
+Thank you for helping me ASMR Progs
 ---
 
 Thank you for using the Music Player App. Enjoy your music experience! 🎶🎧
