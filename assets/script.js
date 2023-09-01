@@ -14,22 +14,22 @@ const music = new Audio();
 
 const songs = [
     {
-        path: 'assets/images/1 (1).mp3',
-        displayName: 'The Charmer\'s Call',
-        cover: 'assets/images/1 (1).jpg',
-        artist: 'Hanu Dixit',
+        path: 'assets/images/restaurant-music-110483.mp3',
+        displayName: 'Piano',
+        cover: 'assets/images/Nyc-jazz.jpg',
+        artist: 'NYC Jazz',
     },
     {
-        path: 'assets/images/2.mp3',
-        displayName: 'You Will Never See Me Coming',
-        cover: 'assets/images/2.jpg',
-        artist: 'NEFFEX',
+        path: 'assets/images/Big-Apple.mp3',
+        displayName: 'The Big Apple',
+        cover: 'assets/images/blackandwhitenyc.jpg',
+        artist: 'Jazz',
     },
     {
-        path: 'assets/images/3.mp3',
-        displayName: 'Intellect',
-        cover: 'assets/images/3.jpg',
-        artist: 'Yung Logos',
+        path: 'assets/images/restaurant-164253.mp3',
+        displayName: 'NYC State of Mind',
+        cover: 'assets/images/Brooklyn-station.jpg',
+        artist: 'Dinner',
     }
 ];
 
